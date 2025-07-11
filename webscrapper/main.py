@@ -24,6 +24,7 @@ app.add_middleware(
     CORSMiddleware,
     allow_origins=[
         "http://localhost:5173",  # Vite (if you're using Vite)
+        "https://cybernews-frontend-zrvs-cqfxrphh1-aryaman170s-projects.vercel.app",
         "http://localhost:3000",  # Create React App
         "http://localhost:8080"   # Your current frontend port
     ],
