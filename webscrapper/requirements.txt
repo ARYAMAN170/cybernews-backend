@@ -1,0 +1,11 @@
+fastapi~=0.115.14
+uvicorn[standard]
+requests~=2.32.4
+beautifulsoup4~=4.13.4
+requests-html~=0.10.0
+dnspython~=2.7.0
+urllib3~=2.4.0
+python-dateutil~=2.9.0.post0
+motor~=2.5.1
+pymongo~=3.13.0
+python-dotenv~=1.1.1
