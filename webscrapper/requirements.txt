@@ -6,7 +6,6 @@ requests-html~=0.10.0
 dnspython~=2.7.0
 urllib3~=2.4.0
 python-dateutil~=2.9.0.post0
-motor~=2.5.1
 python-dotenv~=1.1.1
 motor>=3.6.0
 pymongo>=4.0.0
