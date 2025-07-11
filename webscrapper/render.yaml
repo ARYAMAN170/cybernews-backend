@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: cybersec-backend
+    env: python
+    runtime: python-3.11
+    buildCommand: ""
+    startCommand: uvicorn webscrapper.main:app --host 0.0.0.0 --port 10000
